@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="24" role="img" aria-label="SQL: Data Warehouse">
+  <title>SQL: Data Warehouse</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#ffffff" stop-opacity=".08"/>
+    <stop offset="1" stop-opacity=".08"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="143" height="24" rx="4"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="34" height="24" fill="#555555"/>
+    <rect x="34" width="109" height="24" fill="#4479A1"/>
+    <rect width="143" height="24" fill="url(#s)"/>
+  </g>
+  <g fill="#ffffff" text-anchor="middle"
+     font-family="Verdana,DejaVu Sans,sans-serif" font-size="11">
+    <text x="17.0" y="16" fill="#010101" fill-opacity=".3">SQL</text>
+    <text x="17.0" y="15">SQL</text>
+    <text x="88.5" y="16" fill="#010101" fill-opacity=".3">Data Warehouse</text>
+    <text x="88.5" y="15" fill="#ffffff">Data Warehouse</text>
+  </g>
+</svg>
