@@ -4,12 +4,12 @@
 
 ### An end-to-end analytics project examining how AI affects jobs, salaries, skills, industries, and labor vulnerability
 
-[![Excel](https://img.shields.io/badge/Excel-Analysis%20%26%20Dashboards-217346?logo=microsoftexcel&logoColor=white)](#technology-stack)
-[![SQL](https://img.shields.io/badge/SQL-Data%20Warehouse-4479A1?logo=mysql&logoColor=white)](#sql-data-warehouse)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-F2C811?logo=powerbi&logoColor=black)](#dashboard-gallery)
-[![Tableau](https://img.shields.io/badge/Tableau-Interactive%20Dashboard-E97627?logo=tableau&logoColor=white)](#dashboard-gallery)
-[![Python](https://img.shields.io/badge/Python-Machine%20Learning-3776AB?logo=python&logoColor=white)](#machine-learning-model)
-[![R2](https://img.shields.io/badge/Final%20R²-0.9572-brightgreen)](#machine-learning-model)
+[![Excel](assets/badges/excel.svg)](#technology-stack)
+[![SQL](assets/badges/sql.svg)](#sql-data-warehouse)
+[![Power BI](assets/badges/power-bi.svg)](#dashboard-gallery)
+[![Tableau](assets/badges/tableau.svg)](#dashboard-gallery)
+[![Python](assets/badges/python.svg)](#machine-learning-model)
+[![R2](assets/badges/r2.svg)](#machine-learning-model)
 
 </div>
 
